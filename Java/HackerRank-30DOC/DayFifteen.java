@@ -1,7 +1,7 @@
 /**
 * @Author - Dhyey Shah
 * @problem - https://www.hackerrank.com/challenges/30-linked-list/problem
-/
+*/
 import java.io.*;
 import java.util.*;
 
