@@ -1,3 +1,4 @@
+package prevTCS;
 /**
  * @author DHYEY
  * TCS coding question 
